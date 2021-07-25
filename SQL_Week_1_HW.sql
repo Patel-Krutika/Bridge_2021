@@ -1,3 +1,5 @@
+# Krutika Patel
+
 #1. Which destination in the flights database is the furthest distance away, based on information in the flights table. Show the SQL query(s) that support your conclusion.
 	SELECT MAX(dest)
 	FROM flights;
